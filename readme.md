@@ -1,3 +1,3 @@
 # Read me
 
-Hello!
+Hello! It's very hot out today.
